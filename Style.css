@@ -38,13 +38,14 @@ header{
     background: transparent;
     transition:  all .50s ease;
 }
-
 .logo{
     font-size: 36px;
     color: var(--text-color);
     font-weight: 600;    
 }
-
 span{
     color: var(--main-color);
+}
+.navlist{
+    display: flex;
 }
