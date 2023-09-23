@@ -60,3 +60,9 @@ span{
     color: var(--main-color);
     text-shadow: 3px 3px 20px var(--main-color), -2px 1px 30px var(--text-color);
 } 
+#menu-icon{
+    font-size: 35px;
+    z-index: 10001;
+    cursor:pointer;
+    display: none;
+}
