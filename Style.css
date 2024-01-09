@@ -84,7 +84,7 @@ section {
     padding: 110px 16% 90px;
 }
 
-
+/* hero */
 .hero{
     height: 100vh;
     width: 100%;
@@ -103,4 +103,14 @@ section {
     font-weight: 900;
     margin: 20px 0px 20px;
     line-height: 1.2;
+}
+.main-content p{
+    font-size: var(--p-font);
+    font-weight: 400;
+    width: 720px;
+    max-width:100%;
+    color:var(--other-color);
+    line-height: 30px;
+    margin-bottom: 15px;       
+    overflow-wrap: break-word;  
 }
