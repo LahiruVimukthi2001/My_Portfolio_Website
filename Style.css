@@ -168,3 +168,14 @@ header.sticky{
     box-shadow: 0 .1rem 1rem rgba(0, 0, 0 , .2);
     padding: 16px 16%;
 }
+
+
+/* About */
+
+.about{
+    background: var(--second-bg-color);
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 1rem;
+}
