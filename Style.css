@@ -196,3 +196,9 @@ header.sticky{
 .exp-area{
     margin-bottom: 50px;
 }
+.exp-area p{
+    color: var(--text-color);
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 42px;
+}
