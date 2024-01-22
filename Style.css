@@ -208,3 +208,10 @@ header.sticky{
     font-weight: 400;
     margin-left: 8px;
 }
+
+
+/* Services */
+
+.center-text{
+    text-align: center;
+}
