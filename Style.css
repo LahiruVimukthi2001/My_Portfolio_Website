@@ -215,3 +215,6 @@ header.sticky{
 .center-text{
     text-align: center;
 }
+.center-text h2{
+    font-size: var(--h2-font);
+}
