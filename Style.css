@@ -225,3 +225,12 @@ header.sticky{
     gap: 2.3rem;
     margin-top: 4.2rem;
 }
+.box{
+    padding: 60px 40px 66px;
+    background: #2d343f;
+    border-radius: 28px;
+    border: 1px solid transparent;
+    box-shadow: 0 0 5px var(--main-color);
+    transition: all .50s ease;
+    cursor: pointer;
+}
