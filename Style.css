@@ -245,3 +245,11 @@ header.sticky{
     margin-bottom: 10px;
     text-align: center;
 }
+.box p{
+    font-size: var(--p-font);
+    font-weight: 400;
+    color: var(--other-color);
+    line-height: 20px;
+    margin-bottom: 20px;
+    overflow-wrap: break-word;
+}
