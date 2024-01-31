@@ -269,3 +269,6 @@ header.sticky{
     color: var(--main-color);
     margin-left: 5px;
 }
+.box a:hover{
+    border-bottom: 2px solid var(--main-color);
+}
