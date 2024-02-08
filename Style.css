@@ -325,3 +325,9 @@ header.sticky{
     color: var(--text-color);
     background: #075fe4;
 }
+.row h4{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
