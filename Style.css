@@ -331,3 +331,8 @@ header.sticky{
     margin-bottom: 10px;
     line-height: 1.4;
 }
+.row:hover{
+    border: 1px solid var(--main-color);
+    transform: translateY(-5px) scale(1.03);
+    cursor: pointer;
+}
