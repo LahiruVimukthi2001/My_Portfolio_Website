@@ -336,3 +336,13 @@ header.sticky{
     transform: translateY(-5px) scale(1.03);
     cursor: pointer;
 }
+
+
+
+/* Contact */
+.contact-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4.2rem;
+}
