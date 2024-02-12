@@ -346,3 +346,7 @@ header.sticky{
     justify-content: center;
     margin-top: 4.2rem;
 }
+.contact-form form{
+    position: relative;
+    width: 600px;
+}
