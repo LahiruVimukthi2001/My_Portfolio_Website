@@ -379,3 +379,9 @@ form .send-btn {
     transition: all .50s ease;
     width: 33%; 
 }
+form .send-btn:hover{
+    background: transparent;
+    color: var(--main-color);
+    box-shadow: 0 0 20px var(--main-color);
+    cursor: pointer;
+}
