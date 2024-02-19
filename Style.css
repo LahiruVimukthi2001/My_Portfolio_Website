@@ -402,3 +402,14 @@ form .send-btn:hover{
     font-weight: 400;
     color: var(--other-color);
 }
+.scroll-top i{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #075fe4;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    color: var(--text-color); 
+    font-size: 27px;
+}
