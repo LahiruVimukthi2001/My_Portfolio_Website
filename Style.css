@@ -413,3 +413,12 @@ form .send-btn:hover{
     color: var(--text-color); 
     font-size: 27px;
 }
+
+
+
+@media(max-width:1700px){
+    header{
+        padding: 20px 8%;
+    }
+   
+}
