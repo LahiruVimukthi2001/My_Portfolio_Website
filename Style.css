@@ -423,5 +423,8 @@ form .send-btn:hover{
     header.sticky{
         padding: 14px 8%;
     }
+    section{
+        padding: 90px 8% 80px;
+    }
    
 }
