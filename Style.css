@@ -426,5 +426,7 @@ form .send-btn:hover{
     section{
         padding: 90px 8% 80px;
     }
-   
+    .footer{
+        padding: 18px 8%;        
+    }
 }
