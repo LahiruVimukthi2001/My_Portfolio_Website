@@ -433,3 +433,10 @@ form .send-btn:hover{
         font-size: 28px;
     }
 }
+
+
+@media (max-width:1380px){
+    header{
+        padding: 20px 5%;
+    }
+}
