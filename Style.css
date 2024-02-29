@@ -448,4 +448,9 @@ form .send-btn:hover{
     .footer{
         padding: 18px 5%;        
     }
+    .hero{
+        height: 105vh;
+        background-position:center;
+        /*text-align:auto;*/
+    }
 }
