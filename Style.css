@@ -453,4 +453,10 @@ form .send-btn:hover{
         background-position:center;
         /*text-align:auto;*/
     }
+
+
+@media (max-width: 1290px){
+        
+    }
+    
 }
