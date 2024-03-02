@@ -456,6 +456,9 @@ form .send-btn:hover{
 
 
 @media (max-width: 1290px){
+    .box{
+        padding: 40px 40px 46px;
+    }
         
     }
     
