@@ -464,6 +464,9 @@ form .send-btn:hover{
         height: 60px;
         max-width: 60px;
     }
+    .box h3{
+        font-size: 21px;
+    }
         
     }
     
