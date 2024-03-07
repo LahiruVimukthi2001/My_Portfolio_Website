@@ -475,6 +475,15 @@ form .send-btn:hover{
         gap: 2rem;
         text-align: center;
     }
+    .about-img img{
+        text-align: center;
+        width: 100%;
+        height: 400px;
+        max-width: 400px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin: 0 auto;
+    } 
     
 }
 
