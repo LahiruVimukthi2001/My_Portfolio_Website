@@ -492,6 +492,9 @@ form .send-btn:hover{
 }
 
 @media (max-width: 950px){
+    :root{
+        --h1-font:3.5rem;
+   }
 
 }
 
