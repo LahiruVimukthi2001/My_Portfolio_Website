@@ -495,6 +495,9 @@ form .send-btn:hover{
     :root{
         --h1-font:3.5rem;
    }
+   .social{
+    margin-bottom: 20px;
+}
 
 }
 
