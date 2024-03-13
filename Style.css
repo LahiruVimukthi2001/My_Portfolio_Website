@@ -497,7 +497,11 @@ form .send-btn:hover{
    }
    .social{
     margin-bottom: 20px;
-}
+   }
+   #menu-icon{
+    display: block;
+   }
+
 
 }
 
