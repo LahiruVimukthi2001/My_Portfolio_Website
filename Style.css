@@ -512,6 +512,12 @@ form .send-btn:hover{
     background: var(--bg-color);
     transition: all .50s ease;
    }
+   .navlist a{
+    display: block;
+    padding: 17px;
+    font-size: 22px;
+   }
+
 
 
 
